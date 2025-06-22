@@ -33,7 +33,7 @@ A voice-powered conversational English practice application that helps users imp
 ### Backend Setup
 1. Navigate to backend directory:
    \`\`\`bash
-   cd backend
+   cd ai-english-tutor-backend   
    \`\`\`
 
 2. Add your Gemini API key to \`application.properties\`:
@@ -49,7 +49,7 @@ A voice-powered conversational English practice application that helps users imp
 ### Frontend Setup
 1. Navigate to frontend directory:
    \`\`\`bash
-   cd frontend
+   cd ai-english-tutor-frontend
    \`\`\`
 
 2. Install dependencies:
